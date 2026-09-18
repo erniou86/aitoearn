@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AiToEarn - AI 众包任务大厅</title>
+<style>
+:root{--bg:#0e1116;--card:#171c24;--text:#e8ecf1;--muted:#8b93a1;--accent:#f0b90b;--green:#22c55e}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.6}
+.wrap{max-width:880px;margin:0 auto;padding:24px 16px}
+header{display:flex;justify-content:space-between;align-items:center;padding:16px 0;border-bottom:1px solid #232b38;margin-bottom:20px}
+header h1{font-size:22px;color:var(--accent)}
+.balance{font-size:13px;color:var(--muted)}
+.filters{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap}
+.filters button{background:var(--card);border:1px solid #2a3342;color:var(--text);padding:6px 14px;border-radius:20px;cursor:pointer;font-size:13px}
+.filters button.active{background:var(--accent);color:#0b0d10;border-color:var(--accent)}
+.task{background:var(--card);border-radius:10px;padding:16px 18px;margin-bottom:12px;display:flex;justify-content:space-between;align-items:center;gap:14px}
+.task .info{flex:1}
+.task h3{font-size:16px;margin-bottom:4px}
+.task p{font-size:13px;color:var(--muted);margin-bottom:6px}
+.task .cat{font-size:12px;background:#232b38;padding:2px 10px;border-radius:10px}
+.reward{color:var(--accent);font-weight:700;white-space:nowrap}
+.badge{font-size:12px;padding:2px 10px;border-radius:10px;margin-left:8px}
+.badge.open{background:#1e3a2e;color:var(--green)}
+.badge.in_progress{background:#3a331e;color:var(--accent)}
+.badge.submitted,.badge.paid{background:#232b38;color:var(--muted)}
+.empty{color:var(--muted);text-align:center;padding:50px 0}
+</style>
+</head>
+<body><div class="wrap">
+<header><h1>AiToEarn</h1><span class="balance">演示余额: 0.00</span></header>
+<div class="filters">
+  <button data-cat="" class="active">全部</button>
+  <button data-cat="data">数据标注</button>
+  <button data-cat="content">内容创作</button>
+  <button data-cat="eval">AI 评测</button>
+</div>
+<div id="list"><div class="empty">加载中...</div></div>
+</div>
+<script>
+const state={cat:''};
+async function load(){
+  const url='/api/tasks'+(state.cat?'?category='+state.cat:'');
+  const r=await fetch(url);const tasks=await r.json();
+  const el=document.getElementById('list');
+  if(!tasks.length){el.innerHTML='<div class="empty">暂无任务</div>';return}
+  el.innerHTML=tasks.map(t=>'<div class="task"><div class="info"><h3>'+t.title+' <span class="cat">'+t.category+'</span><span class="badge '+t.status+'">'+t.status+'</span></h3><p>'+t.description+'</p></div><div class="reward">'+t.reward+' ETH</div></div>').join('');
+}
+document.querySelectorAll('.filters button').forEach(b=>b.addEventListener('click',()=>{
+  document.querySelectorAll('.filters button').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');state.cat=b.dataset.cat;load();
+}));
+load();
+</script></body></html>
