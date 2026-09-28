@@ -1,0 +1,1042 @@
+{
+ "scanned_at": "2026-09-28T23:35:00+08:00",
+ "source": "GitHub Search API",
+ "note": "AiToEarn bounty scanner snapshot. Filtered bot repos.",
+ "ai_bounty_total": 472,
+ "data": {
+  "ai": [
+   {
+    "title": "Bounty: hunt bugs across the entire Vista framework",
+    "repo": "Mantitup-Org/vista",
+    "url": "https://github.com/Mantitup-Org/vista/issues/61",
+    "created": "2026-09-20",
+    "comments": 13,
+    "labels": [
+     "help wanted",
+     "bounty"
+    ]
+   },
+   {
+    "title": "[bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志）",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
+    "created": "2026-09-17",
+    "comments": 5,
+    "labels": [
+     "area:tests",
+     "needs-ac",
+     "bounty",
+     "core-bounty"
+    ]
+   },
+   {
+    "title": "[Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言）",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1753",
+    "created": "2026-09-16",
+    "comments": 13,
+    "labels": [
+     "help wanted",
+     "status: competition",
+     "ready",
+     "area:scripts"
+    ]
+   },
+   {
+    "title": "Recover the India malaria chart and a historical task citation",
+    "repo": "aadarwal/swarmstatus-bounties",
+    "url": "https://github.com/aadarwal/swarmstatus-bounties/issues/22",
+    "created": "2026-09-05",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "publish",
+     "type:question",
+     "priority:high"
+    ]
+   },
+   {
+    "title": "Where else was the SET50 January/December report pair staged?",
+    "repo": "aadarwal/swarmstatus-bounties",
+    "url": "https://github.com/aadarwal/swarmstatus-bounties/issues/6",
+    "created": "2026-09-05",
+    "comments": 0,
+    "labels": [
+     "bounty",
+     "publish",
+     "type:question",
+     "priority:high"
+    ]
+   },
+   {
+    "title": "[Onboarding] Connect your agent & submit failures via MCP",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1258",
+    "created": "2026-08-23",
+    "comments": 13,
+    "labels": [
+     "enhancement",
+     "activation",
+     "status: competition",
+     "registered"
+    ]
+   },
+   {
+    "title": "[Enhancement] Rework the bounty process fully",
+    "repo": "iv-org/invidious",
+    "url": "https://github.com/iv-org/invidious/issues/5931",
+    "created": "2026-08-12",
+    "comments": 3,
+    "labels": [
+     "bounty"
+    ]
+   },
+   {
+    "title": "[DIRECT] Diagnose stalled claimed and submitted bounties",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/873",
+    "created": "2026-08-11",
+    "comments": 5,
+    "labels": [
+     "bounty",
+     "ai-agent-welcome",
+     "payments",
+     "good-first-agent-bounty"
+    ]
+   },
+   {
+    "title": "[Bounty: 1 GSD + 2 GSD if built] Propose new features aligned with the vision of this repository",
+    "repo": "jflournoy/for-funsies",
+    "url": "https://github.com/jflournoy/for-funsies/issues/4",
+    "created": "2026-08-07",
+    "comments": 1,
+    "labels": [
+     "enhancement",
+     "help wanted",
+     "good first issue",
+     "bounty"
+    ]
+   },
+   {
+    "title": "$250 for the first independent build",
+    "repo": "zeloras/through-metal-link",
+    "url": "https://github.com/zeloras/through-metal-link/issues/5",
+    "created": "2026-08-07",
+    "comments": 4,
+    "labels": [
+     "bounty",
+     "hardware"
+    ]
+   },
+   {
+    "title": "[bounty] Shared rate-limit middleware (hot-key correct)",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/11",
+    "created": "2026-08-06",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "tier:senior",
+     "area:infra"
+    ]
+   },
+   {
+    "title": "[bounty] Preview-DB seeding + reset endpoint",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/10",
+    "created": "2026-08-06",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "tier:senior",
+     "area:infra"
+    ]
+   },
+   {
+    "title": "[bounty] Per-clone observability (logs + /metrics + middleware)",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/9",
+    "created": "2026-08-06",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "tier:senior",
+     "area:infra"
+    ]
+   },
+   {
+    "title": "[bounty] Voucher clone (single-use redemption)",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/8",
+    "created": "2026-08-06",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "tier:mid",
+     "area:backend"
+    ]
+   },
+   {
+    "title": "[bounty] Inventory / reservation clone (never oversell)",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/7",
+    "created": "2026-08-06",
+    "comments": 1,
+    "labels": [
+     "bounty",
+     "tier:senior",
+     "area:backend"
+    ]
+   },
+   {
+    "title": "[bounty] Wallet clone (atomic transfers + ledger)",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/6",
+    "created": "2026-08-06",
+    "comments": 1,
+    "labels": [
+     "bounty",
+     "tier:senior",
+     "area:backend"
+    ]
+   },
+   {
+    "title": "[bounty] Gallery: contributor credit + \"new since last visit\"",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/5",
+    "created": "2026-08-06",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "tier:junior",
+     "area:frontend"
+    ]
+   },
+   {
+    "title": "[bounty] Paste clone (view-once)",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/4",
+    "created": "2026-08-06",
+    "comments": 1,
+    "labels": [
+     "bounty",
+     "tier:mid",
+     "area:backend"
+    ]
+   },
+   {
+    "title": "[bounty] Shortlink clone",
+    "repo": "quicksilverj2/openbuild-gallery",
+    "url": "https://github.com/quicksilverj2/openbuild-gallery/issues/3",
+    "created": "2026-08-06",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "tier:mid",
+     "area:backend"
+    ]
+   },
+   {
+    "title": "[Bug] Custom emojis are broken",
+    "repo": "iv-org/invidious",
+    "url": "https://github.com/iv-org/invidious/issues/5888",
+    "created": "2026-08-03",
+    "comments": 1,
+    "labels": [
+     "bug",
+     "bounty",
+     "bounty:20$"
+    ]
+   },
+   {
+    "title": "[BOUNTY] Bounties and Issues Guidelines [READ AND OBEY OR BE DISQUALIFIED]",
+    "repo": "theselfish/SlopStation13",
+    "url": "https://github.com/theselfish/SlopStation13/issues/1",
+    "created": "2026-07-29",
+    "comments": 1,
+    "labels": [
+     "good first issue",
+     "BOUNTY"
+    ]
+   },
+   {
+    "title": "[Bounty] Low-poly AIPOU receipt medallion GLB - 150 AIPOU",
+    "repo": "0xddneto/AI-Proof-of-Us",
+    "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/5",
+    "created": "2026-07-23",
+    "comments": 23,
+    "labels": [
+     "help wanted",
+     "bounty",
+     "submission-needs-fixes"
+    ]
+   },
+   {
+    "title": "[Bounty] 32x32 pixel-art work receipt icon - 100 AIPOU",
+    "repo": "0xddneto/AI-Proof-of-Us",
+    "url": "https://github.com/0xddneto/AI-Proof-of-Us/issues/4",
+    "created": "2026-07-23",
+    "comments": 25,
+    "labels": [
+     "help wanted",
+     "bounty",
+     "submission-needs-fixes"
+    ]
+   }
+  ],
+  "mcp": [
+   {
+    "title": "[Test] Round 3 — version/documentation drift hunt: report what the gates cannot see (intake or fix, ",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/2345",
+    "created": "2026-09-27",
+    "comments": 1,
+    "labels": [
+     "help wanted",
+     "test",
+     "status: competition",
+     "needs-ac"
+    ]
+   },
+   {
+    "title": "[Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1941",
+    "created": "2026-09-20",
+    "comments": 8,
+    "labels": [
+     "documentation",
+     "help wanted",
+     "area:docs",
+     "ready"
+    ]
+   },
+   {
+    "title": "[Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言）",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1753",
+    "created": "2026-09-16",
+    "comments": 13,
+    "labels": [
+     "help wanted",
+     "status: competition",
+     "ready",
+     "area:scripts"
+    ]
+   },
+   {
+    "title": "[Bounty] Seed a paid MCP child bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1364",
+    "created": "2026-09-09",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-unavailable"
+    ]
+   },
+   {
+    "title": "[Bounty] Seed a paid MCP child bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1348",
+    "created": "2026-09-08",
+    "comments": 5,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-unavailable"
+    ]
+   },
+   {
+    "title": "[Zero-Bounty] 复用 misaka-intake-bot：在你的真实仓库接入并交付 ≥20 样本反馈报告",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1550",
+    "created": "2026-09-08",
+    "comments": 17,
+    "labels": [
+     "help wanted",
+     "area:workflow",
+     "ready",
+     "bounty"
+    ]
+   },
+   {
+    "title": "[Onboarding] Connect your agent & submit failures via MCP",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1258",
+    "created": "2026-08-23",
+    "comments": 13,
+    "labels": [
+     "enhancement",
+     "activation",
+     "status: competition",
+     "registered"
+    ]
+   },
+   {
+    "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/861",
+    "created": "2026-08-11",
+    "comments": 10,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "claimed-live"
+    ]
+   },
+   {
+    "title": "[Bounty] Seed a paid MCP child bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/860",
+    "created": "2026-08-11",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-unavailable"
+    ]
+   },
+   {
+    "title": "[DIRECT] Add a concise direct-bounty evidence checklist",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/686",
+    "created": "2026-07-29",
+    "comments": 78,
+    "labels": [
+     "bounty",
+     "ai-agent-welcome",
+     "payments",
+     "distribution"
+    ]
+   },
+   {
+    "title": "[DIRECT] Add MCP/API tool-registry drift coverage",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/685",
+    "created": "2026-07-29",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "ai-agent-welcome",
+     "payments",
+     "distribution"
+    ]
+   },
+   {
+    "title": "[DIRECT] Add a fail-closed API test for stale domain origins",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/684",
+    "created": "2026-07-29",
+    "comments": 80,
+    "labels": [
+     "bounty",
+     "ai-agent-welcome",
+     "payments",
+     "distribution"
+    ]
+   },
+   {
+    "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/648",
+    "created": "2026-07-28",
+    "comments": 24,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "claimed-live"
+    ]
+   },
+   {
+    "title": "[BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behavior (answers rustcha",
+    "repo": "Scottcjn/rustchain-bounties",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/16255",
+    "created": "2026-07-19",
+    "comments": 56,
+    "labels": [
+     "documentation",
+     "bounty",
+     "open",
+     "micro"
+    ]
+   },
+   {
+    "title": "[BOUNTY: 15-35 RTC] Make a real YouTube video or written tutorial on RustChain / Proof of Antiquity",
+    "repo": "Scottcjn/rustchain-bounties",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/16240",
+    "created": "2026-07-19",
+    "comments": 38,
+    "labels": [
+     "bounty",
+     "open",
+     "standard",
+     "multi-claim"
+    ]
+   },
+   {
+    "title": "[BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos",
+    "repo": "Scottcjn/rustchain-bounties",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/16238",
+    "created": "2026-07-19",
+    "comments": 76,
+    "labels": [
+     "bounty",
+     "open",
+     "micro",
+     "multi-claim"
+    ]
+   },
+   {
+    "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Create a Telegram Mini-App for Launching Meme Coins & Tracking Trusts",
+    "repo": "aashu91/robinhood-evm-mcp",
+    "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/6",
+    "created": "2026-07-16",
+    "comments": 4,
+    "labels": [
+     "bounty",
+     "ai-agent-friendly"
+    ]
+   },
+   {
+    "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yield Distribution Contr",
+    "repo": "aashu91/robinhood-evm-mcp",
+    "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/5",
+    "created": "2026-07-16",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "ai-agent-friendly"
+    ]
+   },
+   {
+    "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time Gold & Silver Valuati",
+    "repo": "aashu91/robinhood-evm-mcp",
+    "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/4",
+    "created": "2026-07-16",
+    "comments": 4,
+    "labels": [
+     "bounty",
+     "ai-agent-friendly"
+    ]
+   },
+   {
+    "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Create a Telegram Mini-App for Launching Meme Coins & Tracking Trusts",
+    "repo": "aashu91/robinhood-evm-mcp",
+    "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/3",
+    "created": "2026-07-16",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "ai-agent-friendly"
+    ]
+   },
+   {
+    "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yield Distribution Contr",
+    "repo": "aashu91/robinhood-evm-mcp",
+    "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/2",
+    "created": "2026-07-16",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "ai-agent-friendly"
+    ]
+   },
+   {
+    "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time Gold & Silver Valuati",
+    "repo": "aashu91/robinhood-evm-mcp",
+    "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/1",
+    "created": "2026-07-16",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "ai-agent-friendly"
+    ]
+   },
+   {
+    "title": "Camera and staging control for the director",
+    "repo": "Scottcjn/ardy-director",
+    "url": "https://github.com/Scottcjn/ardy-director/issues/6",
+    "created": "2026-07-15",
+    "comments": 4,
+    "labels": [
+     "bounty"
+    ]
+   },
+   {
+    "title": "[50 MRG] Allowlist: topic_pub safety list file + test",
+    "repo": "mergeos-bounties/ros2-mcp",
+    "url": "https://github.com/mergeos-bounties/ros2-mcp/issues/45",
+    "created": "2026-07-15",
+    "comments": 12,
+    "labels": [
+     "bounty",
+     "bounty: feature",
+     "mcp",
+     "reward:50-mrg"
+    ]
+   },
+   {
+    "title": "[100 MRG] Feature: selection rectangular + fill/stroke",
+    "repo": "mergeos-bounties/gimp-mcp",
+    "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/7",
+    "created": "2026-07-14",
+    "comments": 14,
+    "labels": [
+     "bounty",
+     "bounty: feature",
+     "reward:100-mrg"
+    ]
+   },
+   {
+    "title": "[100 MRG] Feature: filters pack (sharpen, emboss, brightness/contrast)",
+    "repo": "mergeos-bounties/gimp-mcp",
+    "url": "https://github.com/mergeos-bounties/gimp-mcp/issues/4",
+    "created": "2026-07-14",
+    "comments": 10,
+    "labels": [
+     "bounty",
+     "bounty: feature",
+     "reward:100-mrg"
+    ]
+   },
+   {
+    "title": "[200 MRG] Live RViz2 remote API bridge design + stub",
+    "repo": "mergeos-bounties/rviz-mcp",
+    "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/24",
+    "created": "2026-07-14",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "bounty: feature",
+     "reward:200-mrg"
+    ]
+   },
+   {
+    "title": "[50 MRG] Feature: set fixed frame tool",
+    "repo": "mergeos-bounties/rviz-mcp",
+    "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/20",
+    "created": "2026-07-14",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "bounty: feature",
+     "reward:50-mrg"
+    ]
+   },
+   {
+    "title": "[50 MRG] Feature: list/add/remove displays mock tools",
+    "repo": "mergeos-bounties/rviz-mcp",
+    "url": "https://github.com/mergeos-bounties/rviz-mcp/issues/19",
+    "created": "2026-07-14",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "bounty: feature",
+     "reward:50-mrg"
+    ]
+   },
+   {
+    "title": "[200 MRG] Live MetaTrader5 Python package bridge stub",
+    "repo": "mergeos-bounties/mt5-mcp",
+    "url": "https://github.com/mergeos-bounties/mt5-mcp/issues/24",
+    "created": "2026-07-14",
+    "comments": 11,
+    "labels": [
+     "bounty",
+     "bounty: feature",
+     "reward:200-mrg"
+    ]
+   }
+  ],
+  "agent": [
+   {
+    "title": "[Test] Round 3 — version/documentation drift hunt: report what the gates cannot see (intake or fix, ",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/2345",
+    "created": "2026-09-27",
+    "comments": 1,
+    "labels": [
+     "help wanted",
+     "test",
+     "status: competition",
+     "needs-ac"
+    ]
+   },
+   {
+    "title": "Expose inference cost metrics on the public ledger endpoint",
+    "repo": "Grainlify/grainlify-bounty-agent",
+    "url": "https://github.com/Grainlify/grainlify-bounty-agent/issues/2",
+    "created": "2026-09-25",
+    "comments": 6,
+    "labels": [
+     "good first issue",
+     "bounty"
+    ]
+   },
+   {
+    "title": "Generate a human-readable x402 error reference from the recorded fixture",
+    "repo": "Grainlify/grainlify-bounty-agent",
+    "url": "https://github.com/Grainlify/grainlify-bounty-agent/issues/3",
+    "created": "2026-09-25",
+    "comments": 7,
+    "labels": [
+     "good first issue",
+     "bounty"
+    ]
+   },
+   {
+    "title": "Record the real network fee in the ledger, not only the capped estimate",
+    "repo": "Grainlify/grainlify-bounty-agent",
+    "url": "https://github.com/Grainlify/grainlify-bounty-agent/issues/1",
+    "created": "2026-09-25",
+    "comments": 10,
+    "labels": [
+     "good first issue",
+     "bounty"
+    ]
+   },
+   {
+    "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1505",
+    "created": "2026-09-23",
+    "comments": 6,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-pending"
+    ]
+   },
+   {
+    "title": "[Bounty] Fix one deterministic agent-card discovery regression",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1502",
+    "created": "2026-09-23",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-pending"
+    ]
+   },
+   {
+    "title": "Bounty: hunt bugs across the entire Vista framework",
+    "repo": "Mantitup-Org/vista",
+    "url": "https://github.com/Mantitup-Org/vista/issues/61",
+    "created": "2026-09-20",
+    "comments": 13,
+    "labels": [
+     "help wanted",
+     "bounty"
+    ]
+   },
+   {
+    "title": "[Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1941",
+    "created": "2026-09-20",
+    "comments": 8,
+    "labels": [
+     "documentation",
+     "help wanted",
+     "area:docs",
+     "ready"
+    ]
+   },
+   {
+    "title": "[bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志）",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
+    "created": "2026-09-17",
+    "comments": 5,
+    "labels": [
+     "area:tests",
+     "needs-ac",
+     "bounty",
+     "core-bounty"
+    ]
+   },
+   {
+    "title": "Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process",
+    "repo": "auscaster/frantic-board",
+    "url": "https://github.com/auscaster/frantic-board/issues/432",
+    "created": "2026-09-17",
+    "comments": 91,
+    "labels": [
+     "bounty",
+     "funded",
+     "delivered",
+     "paid"
+    ]
+   },
+   {
+    "title": "[Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言）",
+    "repo": "Ikalus1988/MisakaNet",
+    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1753",
+    "created": "2026-09-16",
+    "comments": 13,
+    "labels": [
+     "help wanted",
+     "status: competition",
+     "ready",
+     "area:scripts"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1388",
+    "created": "2026-09-09",
+    "comments": 15,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1387",
+    "created": "2026-09-09",
+    "comments": 10,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1386",
+    "created": "2026-09-09",
+    "comments": 10,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1385",
+    "created": "2026-09-09",
+    "comments": 10,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 24",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1383",
+    "created": "2026-09-09",
+    "comments": 5,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 21",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1384",
+    "created": "2026-09-09",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — fortnight 20260",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1382",
+    "created": "2026-09-09",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 7",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1381",
+    "created": "2026-09-09",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 25",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1380",
+    "created": "2026-09-09",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1378",
+    "created": "2026-09-09",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1379",
+    "created": "2026-09-09",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 26",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1377",
+    "created": "2026-09-09",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 sprint",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1376",
+    "created": "2026-09-09",
+    "comments": 14,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1375",
+    "created": "2026-09-09",
+    "comments": 3,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 31",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1374",
+    "created": "2026-09-09",
+    "comments": 7,
+    "labels": [
+     "bounty",
+     "payments",
+     "verifier",
+     "funded-live"
+    ]
+   },
+   {
+    "title": "[Bounty] Seed a paid CLI child bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1371",
+    "created": "2026-09-09",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-unavailable"
+    ]
+   },
+   {
+    "title": "[Bounty] Seed a paid wallet UX child bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1369",
+    "created": "2026-09-09",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-unavailable"
+    ]
+   },
+   {
+    "title": "[Bounty] Seed a paid API child bounty",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1368",
+    "created": "2026-09-09",
+    "comments": 2,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live",
+     "verification-unavailable"
+    ]
+   },
+   {
+    "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
+    "repo": "NSPG13/agent-bounties",
+    "url": "https://github.com/NSPG13/agent-bounties/issues/1365",
+    "created": "2026-09-09",
+    "comments": 4,
+    "labels": [
+     "bounty",
+     "payments",
+     "funded-live"
+    ]
+   }
+  ]
+ }
+}
