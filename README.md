@@ -23,9 +23,25 @@ aitoearn/
 │   └── test_api.py    # 单元测试（pytest）
 ├── frontend/
 │   └── index.html     # 零构建响应式前端
+├── scripts/
+│   └── fetch_bounties.py  # 全球 AI bounty 扫描器（GitHub 实时任务）
 ├── requirements.txt
 └── Dockerfile
 ```
+
+### 全球 Bounty 扫描器
+
+扫描 GitHub 全部带 bounty 标签的 AI / MCP / Agent 开放任务，自动过滤 bot 刷屏仓库，输出可直接认领的任务清单：
+
+```bash
+# 输出前 20 条
+python scripts/fetch_bounties.py
+
+# 输出前 50 条并保存快照
+python scripts/fetch_bounties.py --top 50 --save
+```
+
+数据来源：GitHub Search API（公开数据，无需认证）。每轮扫描自动剔除已知垃圾仓库（relayhop/sn-monetization-runtime、SPLURT-Station 等），只保留真实可接单任务。
 
 ## 快速开始
 
